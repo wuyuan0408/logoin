@@ -12,7 +12,7 @@ import time,random,sys,json,codecs,threading,glob,urllib,urllib2,urllib3,re,ast,
 
 ningxue = LINETCR.LINE()
 #ningxue.login(qr=True)
-ningxue.login(token='EHGRgD6S3mbXA8Iv1q90.pZpXUlpP487Tnng1qzSiia.USrrFf+SvJUcXJNzIvn+07+zW4qR6wHxKDD8T3EqvPc=')
+ningxue.login(token='EHPw7ibDbWdZVjNT4ev0.pZpXUlpP487Tnng1qzSiia.rjoEyQtw8w9ZaoJlPpOMvwVAwiiaTB5o2BpHnojegKw=')
 ningxue.loginResult()
 print "=====成功登入hkn沅哥Line半垢====="
 
