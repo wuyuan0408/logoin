@@ -12,9 +12,9 @@ import time,random,sys,json,codecs,threading,glob,urllib,urllib2,urllib3,re,ast,
 
 ningxue = LINETCR.LINE()
 #ningxue.login(qr=True)
-ningxue.login(token='需要自己輸入，別把引號刪了')
+ningxue.login(token='EHGRgD6S3mbXA8Iv1q90.pZpXUlpP487Tnng1qzSiia.USrrFf+SvJUcXJNzIvn+07+zW4qR6wHxKDD8T3EqvPc=')
 ningxue.loginResult()
-print "=====成功登入凝雪Line半垢====="
+print "=====成功登入hkn沅哥Line半垢====="
 
 reload(sys)
 sys.setdefaultencoding('utf-8')
@@ -49,8 +49,7 @@ selfMessage ="""
 ╠➩〘Micdel @〙
 ╠➩〘Miclist〙
 ╠═══════════════
-║         ღ 凝雪半垢 ღ
-║ ✡ https://www.youtube.com/channel/UCxaaoIPO9VdAkW5EHJepbGQ✡
+║         ღ 沅哥半垢 ღ
 ╚═══════════════
 """
 
@@ -69,8 +68,7 @@ botMessage ="""
 ╠➩〘@bye〙
 ╠➩〘Bot on/off [半垢開/關]〙
 ╠═══════════════
-║         ღ 凝雪半垢 ღ
-║ ✡ https://www.youtube.com/channel/UCxaaoIPO9VdAkW5EHJepbGQ✡
+║         ღ 沅哥半垢 ღ
 ╚═══════════════
 """
 
@@ -108,8 +106,7 @@ mediaMessage ="""
 ╠➩〘Id@th Text (Translate ID Ke TH〙
 ╠➩〘En@id Text (Translate En Ke ID〙
 ╠═══════════════
-║         ღ 凝雪半垢 ღ
-║ ✡ https://www.youtube.com/channel/UCxaaoIPO9VdAkW5EHJepbGQ✡
+║         ღ 沅哥半垢 ღ
 ╚═══════════════
 """
 
@@ -143,11 +140,10 @@ groupMessage ="""
 ╠➩〘Getgroup image〙
 ╠➩〘Urlgroup Image〙
 ╠═══════════════
-║         ღ 凝雪半垢 ღ
-║ ✡ https://www.youtube.com/channel/UCxaaoIPO9VdAkW5EHJepbGQ✡
+║         ღ 沅哥半垢 ღ
 ╚═══════════════
 """
-vip="需要自己輸入，別把引號刪了"
+vip="u3f33f1b8b3e9e3ceed34d1b5419b0820"
 
 setMessage ="""
 ╔═══════════════
@@ -162,8 +158,7 @@ setMessage ="""
 ╠➩〘Sticker on [貼圖傳送開/關]〙
 ╠➩〘Simisimi on/off [西米西米開/關]〙
 ╠═══════════════
-║         ღ 凝雪半垢 ღ
-║ ✡ https://www.youtube.com/channel/UCxaaoIPO9VdAkW5EHJepbGQ✡
+║         ღ 沅哥半垢 ღ
 ╚═══════════════
 """
 
@@ -181,8 +176,7 @@ creatorMessage ="""
 ╠➩〘Bot restart [機器人重開]〙
 ╠➩〘Turn off [關機]〙
 ╠═══════════════
-║         ღ 凝雪半垢 ღ
-║ ✡ https://www.youtube.com/channel/UCxaaoIPO9VdAkW5EHJepbGQ✡
+║         ღ 沅哥半垢 ღ
 ╚═══════════════
 """
 
@@ -222,8 +216,7 @@ adminMessage ="""
 ╠➩〘Respon3 on/off〙
 ╠➩〘Responkick on/off〙
 ╠═══════════════
-║         ღ 凝雪半垢 ღ
-║ ✡ https://www.youtube.com/channel/UCxaaoIPO9VdAkW5EHJepbGQ✡
+║         ღ 沅哥半垢 ღ
 ╚═══════════════
 """
 
@@ -243,8 +236,7 @@ helpMessage ="""
 ╠➩〘Speed test [速度測試]〙
 ╠➩〘Status [狀態]〙
 ╠═══════════════
-║         ღ 凝雪半垢 ღ
-║ ✡ https://www.youtube.com/channel/UCxaaoIPO9VdAkW5EHJepbGQ✡
+║         ღ 沅哥半垢 ღ
 ╚═══════════════
 """
 
@@ -252,8 +244,8 @@ helpMessage ="""
 KAC=[ningxue]
 mid = ningxue.getProfile().mid
 Bots=[mid]
-Creator=["需要自己輸入，別把引號刪了"]
-admin=["需要自己輸入，別把引號刪了"]
+Creator=["u3f33f1b8b3e9e3ceed34d1b5419b0820"]
+admin=["u3f33f1b8b3e9e3ceed34d1b5419b0820"]
 
 contact = ningxue.getProfile()
 backup1 = ningxue.getProfile()
